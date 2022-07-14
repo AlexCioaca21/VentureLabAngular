@@ -1,0 +1,11 @@
+.search {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+};
+
+.tb {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
